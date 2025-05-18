@@ -4,7 +4,7 @@ A simple Java-based tool to display property listings from an Excel file and fin
 
 ## Features
 
--  Load and display property data from `.xlsx` files.
+-  Load and display property data from `.csv` files.
 -  Vectorize property attributes (e.g., price, size, location).
 -  Find and display nearest neighbor properties based on similarity.
 -  Save favourited properties for later.
